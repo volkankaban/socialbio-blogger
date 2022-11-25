@@ -24,10 +24,11 @@ React For Blogger With Material UI
 | <b>Related Posts</b> | <i>:white_check_mark:</i><br>
 | <b>Search Widget</b> | <i>:white_check_mark:</i><br>
 | <b>Featured Post</b> | <i>:white_check_mark:</i><br>
-| <b>Ads Ready</b> | <i>:x:</i><br>
 | <b>shortcode</b> | <i>:white_check_mark:</i><br>
+| <b>Ads Ready</b> | <i>:x:</i><br>
 | <b>Slider</b> | <i>:x:</i><br>
 | <b>Video Player</b> | <i>:x:</i><br>
+| <b>Dark Mode</b> | <i>:x:</i><br>
 
 ## Blogger Preparation
 
