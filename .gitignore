@@ -5,21 +5,20 @@
 #### Dependencies
 node_modules
 package-lock.json
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-#### Directories
-testing
-coverage
-production
-build
+yarn.lock
+.next
+.vercel
 
 #### Misc
 .DS_Store
+Thumbs.db
 
 #### Logs
+*.log
+.eslintcache
+.npm
+lerna-debug.log*
 npm-debug.log*
+pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
