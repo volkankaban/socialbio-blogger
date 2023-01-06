@@ -3,7 +3,7 @@
 ![React Blogger](docs/images/default.png "React Blogger")
 ![React Blogger Sidebar](docs/images/default.png "React Blogger Sidebar")
 ![React Blogger Profile](docs/images/profile.png "React Blogger Profile")
-![React Blogger Marketplace](docs/images/gallery.png "React Blogger Gallery")
+![React Blogger Gallery](docs/images/gallery.png "React Blogger Gallery")
 
 GitHub Page: https://volkankaban.github.io/react-blogger/<br>
 Blogger Default: https://volkankaban.blogspot.com/<br>
