@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+gh-pages
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/.git
+**/.svn
+**/.hg
